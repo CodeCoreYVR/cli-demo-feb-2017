@@ -1,5 +1,7 @@
 #Stuff in here again
 
+Hello, readme! I'm adding some text. k thx bi
+
 Here are few things you can do to complete your computer's setup.
 
 XCode (for Mac users)
